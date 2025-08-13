@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659627908563",
+    "project_id": "united-through-reading",
+    "storage_bucket": "united-through-reading.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659627908563:android:94597c90c9a6979b602326",
+        "android_client_info": {
+          "package_name": "com.utrapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_6OaJr1qQl4VYEyyb107UjxdyqPBLHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM Token Viewer</string>
+    <string name="app_title">FCM Device Token</string>
+</resources>
